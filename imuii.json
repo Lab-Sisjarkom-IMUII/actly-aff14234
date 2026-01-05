@@ -1,0 +1,11 @@
+{
+  "name": "actly-futura",
+  "framework": "nextjs",
+  "language": "javascript",
+  "buildCommand": "npm run build",
+  "startCommand": "npm run dev",
+  "domain": "actly",
+  "email": "24523171@students.uii.ac.id",
+  "secretKey": "imuii_6eedb628fe705580e47636a85aabd4697463a229413149d77eb0d2cc3815a4d2",
+  "repoUrl": "https://github.com/Lab-Sisjarkom-IMUII/actly-aff14234.git"
+}
