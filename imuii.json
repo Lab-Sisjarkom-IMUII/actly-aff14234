@@ -4,9 +4,9 @@
   "language": "javascript",
   "buildCommand": "npm run build",
   "startCommand": "npm run dev",
-  "domain": "actly",
+  "domain": "actly-tracking-calories",
   "email": "24523171@students.uii.ac.id",
-  "secretKey": "imuii_6eedb628fe705580e47636a85aabd4697463a229413149d77eb0d2cc3815a4d2",
+  "secretKey": "imuii_a960ce04ee874884f61b3c6f115db9ea85a8608ece38231c57423bfe1711b8e5",
   "repoUrl": "https://github.com/Lab-Sisjarkom-IMUII/actly-aff14234.git",
   "repo": ""
 }
